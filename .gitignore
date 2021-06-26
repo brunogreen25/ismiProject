@@ -1,0 +1,11 @@
+# Datasets
+#Dataset/TrainData/images
+#Dataset/TestData/images
+#Dataset/StainTrainData/images
+#Dataset/StainTestData/images
+
+# Outputs of models
+#output
+
+# Submission
+#submission.csv
